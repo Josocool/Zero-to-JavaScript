@@ -1,0 +1,29 @@
+JavaScript is Programming Language designed to run inside a web browser.
+    +++ Key Features of JavaScript
+1. Scripting Language
+    => no need to compile beforehand; it can run immediately.
+2. Client Side
+    => Controls what happends in the browser, such as button clicks, scrollingm and form input.
+3. Server Side
+    => Through Nodejs JavaScript is no longer limited to the browser. its can also handle backend task like Python, Java or PHP.
+4. Easy to Understand
+    => Its syntax is similar to other Language  lick C or Java, which makes it easier to learn.
+
+    +++ What Can JavaScript Do ?
+- Frontend (Client-Side Web Development)
+For buttons, menus, animations → React, Vue, Angular
+
+- Backend (Server-Side Web Development)
+For APIs, database handling → Node.js, Express.js
+
+/*
+    ວິທີ່ການຕໍ່ຂໍ້ຄວາມເຮັດໄດ້ຕາມນີ້ :
+
+    let name = "Phasouk";
+    let age = 21;
+
+    console.log("My name is " + name + "and I am" + age + "years old"); ການຕໍ່ຂໍ້ຄວາມຮູບແບບເກົ່າ
+
+    console.log(`My name is ${name} and I am ${age} years old!`); ການຕໍ່ຂໍ້ຄວາມຮູບແບບໃໝ່
+
+*/
