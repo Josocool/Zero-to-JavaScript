@@ -1,0 +1,9 @@
+Entity ແມ່ນ ສິ່ງຂອງໃດໜື່ງ ທີ່ເຮົາຕ້ອງການເກັບຂໍ້ມູນເອົາໄວ້ໃນລະບົບ ແຕ່ລະ Entity ຈະມີ ຄຸນສົມບັດທີ່ເອີ້ນວ່າ Properties/Attributes ຂອງມັນ 
+ເຊັ່ນ : user ເເມ່ນ Entity ສ່ວນຄ່າຫຼືຂໍ້ມູນດ້ານໃນຂອງ user ເອີ້ນວ່່າ Properties ຫຼື Attributes ນັ້ນເອງ
+
++++ ຕົວຢ່າງ :
+
+Entity	            Property (attributes)
+ผู้ใช้ (User)	       id, name, email, phone
+สินค้า (Product)	  id, name, price, stock
+ออเดอร์ (Order)	      orderId, customerName, items, total
